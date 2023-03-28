@@ -1,0 +1,14 @@
+{
+  "name": "sdk-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RoomServiceClient.ts", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "livekit-server-sdk": "^1.1.0"
+  }
+}
